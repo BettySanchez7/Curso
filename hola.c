@@ -1,4 +1,4 @@
-/*  Invocacion de librerias*/
+﻿/*  Invocacion de librerias*/
 #include <stdio.h>
 #include <stdbool.h>
 #define PI 3.14; //es una directiva del preprocesador (incluir cosas en el código antes de ejecutarlo)
@@ -45,11 +45,7 @@ int main()
     printf("%d\n",a--);
     printf("%d\n",--a);
 
-    //lOS VA A CONVERTIR A BASE 10
-    printf("%d\n",a);
-    printf("%d\n",o);
-    printf("%d\n",b);
-    printf("%d\n",h);
+  
    
 
     
