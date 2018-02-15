@@ -31,14 +31,7 @@ int main()
     printf("%d\n",booleano);
     printf("Tamanio en bytes\n"); //en bits multiplicar por 8
     printf("%d\n", sizeof(a));
-    
 
-    //Asignaciones multiples
-    local=otra=25;
-    printf("%d\n",local);
-    printf("%d\n",otra);
-    
-  
    
 
     
