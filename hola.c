@@ -38,13 +38,6 @@ int main()
     printf("%d\n",local);
     printf("%d\n",otra);
     
-    //Variables de incremento
-    printf("%d\n",a);
-    printf("%d\n",a++);
-    printf("%d\n",++a);
-    printf("%d\n",a--);
-    printf("%d\n",--a);
-
   
    
 
