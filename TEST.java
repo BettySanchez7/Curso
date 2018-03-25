@@ -14,9 +14,5 @@ public class Test {
         int pisoActual= sc.nextInt();
         System.out.println("Piso de destino:_");
         int pisoDestino= sc.nextInt();
-        System.out.println("Cuantas personas son:_");
-        int numPersonas= sc.nextInt();
-        Elevador el= new Elevador(numPersonas,pisoDestino,pisoActual);
-                
-    }
+  
 }
